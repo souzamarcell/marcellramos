@@ -20,7 +20,7 @@ Apaixonado por inovação, sou reconhecido por liderar equipes de alta performan
 
 Github: 
 
-  git remote add origin git@github.com:souzamarcell/resume-marcell-js.git
+  git remote add origin git@github.com:souzamarcell/marcellramos.git
   Verificar: git remote -v
 
 
