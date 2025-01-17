@@ -1,0 +1,14 @@
+Pode fazer sistema em next com Tailwindcss para printar esse resumo abaixo, tem que ser responsivo, vou rodar em desktpo e smartphone.
+- deve conter uma margem de 2 rem nas laterais.
+
+
+Resumo:
+
+Marcell Ramos de Souza                         			Telefones: (92) 99135-7070 / (19) 3238-6869      
+Rua Vargem Grande do Sul - CEP: 13040-117			Email: marcell.ramos@gmail.com                                                            
+Jardim Nova Europa – Campinas / SP				LinkedIn: https://br.linkedin.com/in/marcellsouza
+
+Líder em Tecnologia da Informação com mais de 20 anos de experiência em segurança da informação, infraestrutura e gestão de projetos. Especialista em planejar, implementar e gerenciar ambientes complexos de TI, garantindo excelência operacional e conformidade com as melhores práticas de mercado.
+Possuo MBA em Cybersecurity e Governança, com sólida formação em Engenharia da Computação e especialização em Software Livre. Minhas certificações Microsoft e ITIL, combinadas com habilidades em Python, Docker, Kubernetes e administração de redes, me permitem resolver desafios críticos e liderar projetos estratégicos com impacto mensurável.
+Apaixonado por inovação, sou reconhecido por liderar equipes de alta performance e implementar soluções robustas que fortalecem a segurança cibernética e a eficiência organizacional.
+

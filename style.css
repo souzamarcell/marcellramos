@@ -1,0 +1,95 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f3f4f6;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Row styles for flexbox */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+/* Part styles */
+.part {
+  flex: 1;
+  padding: 8px;
+}
+
+.part h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.part p {
+  margin-bottom: 8px;
+  /* line-height: 1.5; */
+}
+
+.part a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.part a:hover {
+  text-decoration: underline;
+}
+
+.part3 p {
+  text-align: justify; /* Justifica o texto */
+  line-height: 1.6; /* Aumenta o espaçamento entre as linhas para melhor leitura */
+  margin-bottom: 16px; /* Espaçamento inferior entre os parágrafos */
+}
+
+.bold-text strong {
+  padding: 8px;
+}
+
+.pulaLinha {
+  margin-top: 30px; /* Espaço inferior */
+}
+
+.pulaLinha2 {
+  margin-top: 10px; /* Espaço inferior */
+}
+
+.margemTitulo {
+  padding-left: 30px;
+}
+
+.margemTitulo1 {
+  padding-left: 60px;
+}
+
+.name-title {
+  font-size: 24px; /* Tamanho do texto */
+  font-weight: bold; /* Deixa o texto em negrito */
+  margin-bottom: 16px; /* Espaçamento inferior */
+  text-align: center; /* Centraliza o texto horizontalmente */
+  white-space: nowrap; /* Garante que o texto não quebre em várias linhas */
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column;
+  }
+  .pulaLinha {
+    margin-bottom: 20px; /* Reduz o espaço em telas pequenas */
+  }
+}
