@@ -439,7 +439,7 @@
     </p>
     <p class="margemTitulo">
       • DELL SonicWALL - Network Security Basic Administration NS-102SG-A (Alert Security, 24h,
-        02/2014).
+      02/2014).
     </p>
     <p class="margemTitulo">
       • ITIL V3 Foundation (Centro de Treinamento FABRIQ, 24h, 10/2012).
@@ -465,10 +465,29 @@
     <!-- End ------------------------------------------------ -->
 
     <!--  container -->
-    <p class="margemTitulo"> .</p>
 
-    <p class="margemTitulo"> .</p>
+    <p class="margemTituloUltimo"> </p>
+
   </div>
-  <p class="margemTitulo"> São Paulo, 21 de Janeiro de 2025.</p>
+  <!-- <p class="margemTituloRodape"> São Paulo, 21 de Janeiro de 2025.</p> -->
+  <p class="margemTituloRodape" id="dataAtual"></p>
+
+  <script>
+    // JavaScript para exibir a data atual
+    const data = new Date();
+    const options = { day: 'numeric', month: 'long', year: 'numeric' };
+    const dataFormatada = data.toLocaleDateString('pt-BR', options);
+
+    document.getElementById('dataAtual').textContent = `São Paulo, ${dataFormatada}.`;
+  </script>
+
+  <style>
+    .margemTituloRodape {
+      text-align: right;
+      /* Alinha o texto à direita */
+      margin-right: 15px;
+      /* Adiciona espaço de 10px à direita */
+    }
+  </style>
 </body>
 </html>
