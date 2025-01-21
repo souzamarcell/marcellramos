@@ -124,6 +124,7 @@
     "evandro",
     "Expedicao",
     "Extrusao",
+    "FABRIQ",
     "february",
     "Feitoza",
     "fetc",
@@ -144,6 +145,7 @@
     "haveedit",
     "hyste",
     "Hyster",
+    "IBSEC",
     "Icart",
     "Idcard",
     "IGTI",
@@ -180,6 +182,8 @@
     "marcelo",
     "matrim",
     "mauricio",
+    "MCITP",
+    "MCTS",
     "mecalor",
     "michel",
     "Microsiga",
@@ -188,6 +192,7 @@
     "NEXTAUTH",
     "Nildo",
     "november",
+    "nowrap",
     "october",
     "origs",
     "oring",
@@ -206,8 +211,10 @@
     "Progroup",
     "promisified",
     "Protheus",
+    "PUCC",
     "regobj",
     "responsibleproduction",
+    "rgba",
     "roleaccess",
     "sampaio",
     "satiro",
@@ -236,8 +243,6 @@
     "Ville",
     "Vmware",
     "walpaper",
-    "wanderlei",
-    "rgba",
-    "nowrap"
+    "wanderlei"
   ]
 }
